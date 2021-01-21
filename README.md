@@ -8,5 +8,5 @@ o codigo.
 
 >
 
-![https://github.com/dosSantos-Paulo/androidDevelop/tree/main/02_Android/19_FAKE_LOGIN](<img src="snapshot/dh-foods-1.png" width="200"/>)
+![https://github.com/dosSantos-Paulo/androidDevelop/tree/main/02_Android/19_FAKE_LOGIN] (snapshot/dh-foods-1.png)
    <img src="snapshot/dh-foods-2.png" width="200"/>   <img src="snapshot/dh-foods-2.png" width="200"/>
