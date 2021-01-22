@@ -1,7 +1,24 @@
 # Portifolio
 
 Estes são alguns dos apps em que trabalhei nos últimos
-meses, clique em qualquer um para ver o repositório com 
-o codigo. 
+meses.
 
-![https://github.com/dosSantos-Paulo/androidDevelop/tree/main/02_Android/19_FAKE_LOGIN](snapshot/fake-login.png)
+![https://github.com/dosSantos-Paulo/portifolio/blob/main/snapshot/fake-login.png](Fake Login)
+
+<img src="snapshot/fake-login.png" width="300"/>
+
+>
+
+![https://github.com/dosSantos-Paulo/digitalHouse_Foods](Foods)
+<img src="snapshot/dh-foods-1.png" width="300"/>   <img src="snapshot/dh-foods-2.png" width="300"/>   <img src="snapshot/dh-foods-3.png" width="300"/>
+
+>
+
+![https://github.com/dosSantos-Paulo/digitalHouse_Foods](Hq)
+<img src="snapshot/dh-hq-1.png" width="300"/>   <img src="snapshot/dh-hq-2.png" width="300"/>   <img src="snapshot/dh-hq-3.png" width="300"/>   <img src="snapshot/dh-hq-4.png" width="300"/>
+
+>
+
+![https://github.com/dosSantos-Paulo/digitalHouse_Foods](Marvel My Hero)
+<img src="snapshot/marvel-my-hero.png" width="300"/>   <img src="snapshot/marvel-my-hero-1.png" width="300"/>   <img src="snapshot/marvel-my-hero-2.png" width="300"/>   <img src="snapshot/marvel-my-hero-3.png" width="300"/>
+
